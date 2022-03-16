@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# Data files
+*.csv
+*.parquet
+*.avro
+*.json
+*.crc
+*.dat
+*._SUCCESS*
+*data*/
+*metastore_db*
+
 # IDE settings
 *.idea/
 
